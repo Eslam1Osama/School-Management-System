@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1630615678 source:c:\users\eslam\desktop\nti_coding\queue\school_mangment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"School.h"
+
+1630621394 c:\users\eslam\desktop\nti_coding\queue\school_mangment_system\school.h
+	<stdbool.h>
+
+1630621701 source:c:\users\eslam\desktop\nti_coding\queue\school_mangment_system\school.c
+	<stdio.h>
+	"School.h"
+	"Config.h"
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
+1630615680 c:\users\eslam\desktop\nti_coding\queue\school_mangment_system\config.h
+
